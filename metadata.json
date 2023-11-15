@@ -2,6 +2,6 @@
   "name": "Staking4All",
   "website": "https://www.staking4all.org/",
   "description": "Validator for Proof of Stake blockchains. Delegate to us for a easy staking experience",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/staking4all/eigenlayer/main/Stake4All_logo.png",
   "twitter": "https://twitter.com/staking4all"
 }
